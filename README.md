@@ -13,7 +13,7 @@ on your show. A tool that stops working when the venue WiFi does is not a tool.
 hardware and what has only ever run in simulation. *Verified* and *assumed* are
 different words and we use them differently.
 
-### Where to start
+## Where to start
 
 | | |
 |---|---|
@@ -21,12 +21,12 @@ different words and we use them differently.
 | 💻 **Software** | [stoatworks-labs.com/software](https://stoatworks-labs.com/software) |
 | 🔌 **Hardware** | [stoatworks-labs.com/hardware](https://stoatworks-labs.com/hardware) |
 
-### Elsewhere
+## Elsewhere
 
 - **YouTube** — [@Stoatworks-Labs](https://www.youtube.com/@Stoatworks-Labs) — a short video per tool, every one of them the real application running its real demo data
 - **Instagram** — [@stoatworkslabs](https://www.instagram.com/stoatworkslabs) — the same cuts, plus what is on the bench
 
-### Support the work
+## Support the work
 
 Everything here is given away, and that is not changing. It still costs hardware to
 test against, fab runs for boards that do not work yet, and a great many unpaid hours.
