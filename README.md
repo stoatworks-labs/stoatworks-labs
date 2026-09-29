@@ -13,6 +13,10 @@ on your show. A tool that stops working when the venue WiFi does is not a tool.
 hardware and what has only ever run in simulation. *Verified* and *assumed* are
 different words and we use them differently.
 
+**Built with AI, and says so.** Most of this code was written with
+[Claude](https://claude.com/claude-code) (Anthropic), directed and reviewed by a human who
+runs shows. Every repo states it at the top, next to what has been tested and what has not.
+
 ## Where to start
 
 | | |
