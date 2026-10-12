@@ -28,7 +28,7 @@ tested.
 
 ## Elsewhere
 
-- **YouTube:** [@Stoatworks-Labs](https://www.youtube.com/@Stoatworks-Labs), a short video for each tool, recorded from the app itself running its demo data
+- **YouTube:** [@Stoatworks-Labs](https://www.youtube.com/@Stoatworks-Labs), a short video for most of the tools, recorded from the app itself running its demo data
 - **Instagram:** [@stoatworkslabs](https://www.instagram.com/stoatworkslabs), the same videos, plus whatever's on the bench
 
 ## Support the work
