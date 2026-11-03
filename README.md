@@ -22,9 +22,12 @@ tested.
 
 | | |
 |---|---|
-| 🌐 **Website** | [stoatworks-labs.com](https://stoatworks-labs.com) — every project, filtered by discipline |
-| 💻 **Software** | [stoatworks-labs.com/software](https://stoatworks-labs.com/software) |
-| 🔌 **Hardware** | [stoatworks-labs.com/hardware](https://stoatworks-labs.com/hardware) |
+| 🌐 **Website** | [stoatworks-labs.com](https://stoatworks-labs.com/) — every project, filtered by discipline |
+| 💻 **Software** | [stoatworks-labs.com/software](https://stoatworks-labs.com/software/) |
+| 🌍 **Web tools** | [stoatworks-labs.com/web-tools](https://stoatworks-labs.com/web-tools/) — the ones that run in a browser tab |
+| 🎞️ **Video plugins** | [stoatworks-labs.com/video-plugins](https://stoatworks-labs.com/video-plugins/) |
+| 🎚️ **Audio plugins** | [stoatworks-labs.com/audio-plugins](https://stoatworks-labs.com/audio-plugins/) |
+| 🔌 **Hardware** | [stoatworks-labs.com/hardware](https://stoatworks-labs.com/hardware/) |
 
 ## Elsewhere
 
